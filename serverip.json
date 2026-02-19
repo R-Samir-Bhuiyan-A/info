@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "Crystel craft",
+      "ip": "play.crystalcraftbd.fun",
+      "port": 25565
+    }
+  ]
+}
