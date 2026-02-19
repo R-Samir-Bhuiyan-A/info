@@ -1,1 +1,29 @@
 
+{
+  "meta": {
+    "schemaVersion": 1
+  },
+  "app": {
+    "latestVersion": "0.41.2",
+    "minVersion": "0.0.0",
+    "downloadUrl": "https://github.com/R-Samir-Bhuiyan-A",
+    "updateMessage": "New version available! Please update."
+  },
+  "social": {
+    "discord": "https://discord.gg/2cTMdMTGY6",
+    "github": "https://github.com/R-Samir-Bhuiyan-A",
+    "website": "https://xmcl.app"
+  },
+  "features": {
+    "sidebarStyle": false,
+    "themeStore": true,
+    "feedback": true
+  },
+  "announcement": {
+    "message": "Welcome to XS Launcher!",
+    "link": "https://discord.gg/2cTMdMTGY6",
+    "type": "info"
+  }
+}
+
+
