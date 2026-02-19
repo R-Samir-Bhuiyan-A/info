@@ -4,6 +4,11 @@
       "name": "Crystel craft",
       "ip": "play.crystalcraftbd.fun",
       "port": 25565
+    },
+    {
+      "name": "dlm.lol",
+      "ip": "dlm.lol",
+      "port": 25565
     }
   ]
 }
